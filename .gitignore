@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+
+# Generated output (the published sample report lives in docs/)
+results/
+demo/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
